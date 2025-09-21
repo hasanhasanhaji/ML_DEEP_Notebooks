@@ -1,7 +1,4 @@
 # ML_DEEP_Notebooks
-Here is a strong and well-structured README template in English for your GitHub repository. You can copy this directly into your `README.md` file and fill in the bracketed information.
-
----
 
 ### Machine and Deep Learning Notebooks Repository
 
@@ -46,9 +43,8 @@ You can view the notebooks directly on GitHub. For an interactive experience, cl
 
 ### Connect with Me
 
-* **Your Name**: [Your Name]
-* **LinkedIn**: [Link to your LinkedIn Profile]
-* **Portfolio/Website**: [Link to your personal website or portfolio]
-* **Email**: [Your Email Address]
-
+* **Your Name**: Hassan Haji Mohammadi
+* **LinkedIn** 
+* **Portfolio/Website**
+* **Email**: hasanhasanhaji@gmail.com
 Feel free to connect and explore the projects!
